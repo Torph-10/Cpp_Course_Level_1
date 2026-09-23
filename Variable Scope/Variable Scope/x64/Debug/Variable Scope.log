@@ -1,0 +1,2 @@
+﻿  Variable Scope.cpp
+C:\Users\akats\OneDrive\Desktop\Algorithms\Variable Scope\Variable Scope.cpp(8,6): error C2082: redefinition of formal parameter 'x'

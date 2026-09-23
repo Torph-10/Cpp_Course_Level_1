@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akats\\OneDrive\\Desktop\\Algorithms\\Swap With funct and (BY-VALUE AND BY-REFF)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{381B00A7-9665-4830-A17A-487BB9A72A6F}|Swap With funct and (BY-VALUE AND BY-REFF).vcxproj|C:\\Users\\akats\\OneDrive\\Desktop\\Algorithms\\Swap With funct and (BY-VALUE AND BY-REFF)\\Swap With funct and (BY-VALUE AND BY-REFF).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{381B00A7-9665-4830-A17A-487BB9A72A6F}|Swap With funct and (BY-VALUE AND BY-REFF).vcxproj|solutionrelative:Swap With funct and (BY-VALUE AND BY-REFF).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Swap With funct and (BY-VALUE AND BY-REFF).cpp",
+              "DocumentMoniker": "C:\\Users\\akats\\OneDrive\\Desktop\\Algorithms\\Swap With funct and (BY-VALUE AND BY-REFF)\\Swap With funct and (BY-VALUE AND BY-REFF).cpp",
+              "RelativeDocumentMoniker": "Swap With funct and (BY-VALUE AND BY-REFF).cpp",
+              "ToolTip": "C:\\Users\\akats\\OneDrive\\Desktop\\Algorithms\\Swap With funct and (BY-VALUE AND BY-REFF)\\Swap With funct and (BY-VALUE AND BY-REFF).cpp",
+              "RelativeToolTip": "Swap With funct and (BY-VALUE AND BY-REFF).cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-27T09:06:17.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
